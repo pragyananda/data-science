@@ -1,7 +1,7 @@
 
 # data science 
 
-This is a product that will help the beginner for data science career guidance.
+This is a project that will help the beginner for data science career guidance.
 This is a passion project that we are building using Django and Mongodb.
 
 

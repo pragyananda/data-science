@@ -23,17 +23,17 @@ Contributions are always welcome!
 ## 🚀 About Me
  I'm a full stack developer...
 
-🔭 I’m currently working on `Attendence project`
+🔭 I’m currently working on [Attendence project](https://github.com/pragyananda/attendance-system)
 
 🌱 I’m currently learning Node.js,React.js,express.js,next.js,flutter,data science,power BI,Natural language processing etc.
 
-👨‍💻 All of my projects are available at `pragyananda.github.io`
+👨‍💻 All of my projects are available at [pragyananda.github.io](pragyananda.github.io)
 
 💬 Ask me about `PHP,Django`
 
 📫 How to reach me pragyanandasaho@gmail.com
 
-📄 Know about my experiences `pragyananda.github.io/resume`
+📄 Know about my experiences [pragyananda.github.io/resume](pragyananda.github.io/resume)
 
 ⚡ Fun fact I am Funny
 

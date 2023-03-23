@@ -9,8 +9,8 @@ This is a passion project that we are building using Django and Mongodb.
 
 - [@pragyananda](https://github.com/pragyananda)
 - [@Sweta-Chaudhary](https://github.com/Sweta-Chaudhary)
-- [@anshika](https://www.github.com/anshika)
-- [@ayush](https://www.github.com/ayush)
+- [@anshikaxawxax](https://www.github.com/anshikaacacaca)
+- [@ayushxawxaxa](https://www.github.com/ayushaxwaxawx)
 
 
 

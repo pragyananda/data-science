@@ -25,4 +25,4 @@ Click the green Compare & pull request button to begin the pull request.
  check base repository", and your fork is listed as the "head repository"
  # than you for contributing
  If you dont understand then plz visit this my reference site how to join a project
- .[https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267].(https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
+ https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
